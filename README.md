@@ -10,9 +10,6 @@
 - 🔎 Ricerca full-text con suggerimenti automatici  
 - 🧠 Supporto a filtri e facet dinamici  
 - ⚡ Indicizzazione veloce tramite **Typesense**  
-- 🌍 Supporto multilingua (IT/EN)  
-- 🔒 Compatibilità multi-database e multi-tenant (istanze su sottodomini)  
-- 🔁 Integrazione diretta con moduli Laravel esistenti (utenti, campagne, città, ecc.)  
 
 ---
 
